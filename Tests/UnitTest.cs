@@ -1,6 +1,4 @@
 using ConsoleUI;
-using System.Globalization;
-using System;
 using System.Xml;
 
 namespace Tests
